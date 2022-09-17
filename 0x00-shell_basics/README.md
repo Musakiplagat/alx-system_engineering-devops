@@ -1,2 +1,2 @@
 #!/bin/bash
-this is mot empty
+where i am
