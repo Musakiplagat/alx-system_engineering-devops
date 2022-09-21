@@ -1,2 +1,1 @@
-#!/bin/bash
-thi has two long line
+ls -l

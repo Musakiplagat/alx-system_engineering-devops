@@ -1,2 +1,1 @@
-#!/bin/bash
-where i am
+Display current directory contents in a long format
